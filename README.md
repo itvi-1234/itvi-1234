@@ -47,10 +47,6 @@
 
 ---
 
-### Additional Specialized Tools
-
-- Selenium • UIAutomator2 • ADB • Pytesseract (OCR) • Regex • Pydantic Models • Groq API
-
 <div align="center">
 
 **"Code is poetry written in logic, and automation is the art of making it dance."**
