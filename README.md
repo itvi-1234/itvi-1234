@@ -29,33 +29,50 @@
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-### 🔧 Frameworks & Libraries
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,tailwind,js,git,github,vscode,selenium,opencv,sqlite,android&theme=dark" />
 
-### 🤖 AI & Automation
-![Google AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logo=groq&logoColor=white)
-![Pytesseract](https://img.shields.io/badge/OCR-Pytesseract-green?style=flat-square)
-![UIAutomator2](https://img.shields.io/badge/UIAutomator2-3DDC84?style=flat-square&logo=android&logoColor=white)
+</div>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+**Additional Tools:** ADB • UIAutomator2 • Pytesseract (OCR) • Regex • Pydantic • Gemini AI • Groq API • Canva
 
 ---
+
+## 🎯 Alternative Layout (Larger Icons)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,tailwind,js&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,selenium,opencv,sqlite,android&perline=7" />
+
+</div>
+
+**Specialized:** ADB • UIAutomator2 • Pytesseract • OCR • Regex • Pydantic • Gemini AI • Groq API • Canva
+
+---
+
+## 🚀 Single Clean Row
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,tailwind,js,git,github,vscode,selenium,opencv,sqlite,android" width="700"/>
+
+**ADB • UIAutomator2 • Pytesseract • OCR • Regex • Pydantic • Gemini AI • Groq API • Canva**
+
+</div>
+
+---
+
+## 💡 Compact Version
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,html,tailwind,js,git,vscode,selenium,opencv,sqlite,android&theme=dark&perline=12" />
+
+**Plus:** ADB • UIAutomator2 • Pytesseract • Regex • Pydantic • Gemini/Groq APIs • Canva
+
+</div>
 
 ## 🚀 Featured Projects
 
