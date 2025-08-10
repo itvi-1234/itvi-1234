@@ -51,6 +51,21 @@
 
 - Selenium • UIAutomator2 • ADB • Pytesseract (OCR) • Regex • Pydantic Models • Groq API
 
+<div align="center">
+
+**"Code is poetry written in logic, and automation is the art of making it dance."**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=itvi-1234&color=36BCF7&style=flat-square)](https://github.com/itvi-1234)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<!-- 
 ## 🚀 Featured Projects
 
 ### 🤖 WhatsApp Business Automation Bot
@@ -127,17 +142,4 @@
 - 📱 Mobile automation solutions  
 - 🔄 Business process automation
 - 🚀 Startup tech solutions
-
-<div align="center">
-
-**"Code is poetry written in logic, and automation is the art of making it dance."**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=itvi-1234&color=36BCF7&style=flat-square)](https://github.com/itvi-1234)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+ -->
