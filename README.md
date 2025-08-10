@@ -105,14 +105,6 @@
 📱 **Mobile Automation** - Scaling Android device testing frameworks  
 🌐 **Web Scraping** - Advanced data extraction with AI-powered deduplication  
 
----
-
-## 📈 Activity Graph
-
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itvi-1234&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🎖️ Badges & Certifications
 
 <div align="center">
