@@ -26,53 +26,30 @@
 > *"Transforming complex problems into elegant automated solutions"*
 
 ---
+### 🧰 Languages and Tools
 
-## 🛠️ Tech Arsenal
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 
-<div align="center">
+<br />
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,tailwind,js,git,github,vscode,selenium,opencv,sqlite,android&theme=dark" />
-
-</div>
-
-**Additional Tools:** ADB • UIAutomator2 • Pytesseract (OCR) • Regex • Pydantic • Gemini AI • Groq API • Canva
-
----
-
-## 🎯 Alternative Layout (Larger Icons)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,tailwind,js&perline=7" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,selenium,opencv,sqlite,android&perline=7" />
-
-</div>
-
-**Specialized:** ADB • UIAutomator2 • Pytesseract • OCR • Regex • Pydantic • Gemini AI • Groq API • Canva
+**Additional Specialized Tools:** Selenium • UIAutomator2 • ADB • Pytesseract (OCR) • Regex • Pydantic Models • Groq API
 
 ---
 
-## 🚀 Single Clean Row
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,tailwind,js,git,github,vscode,selenium,opencv,sqlite,android" width="700"/>
-
-**ADB • UIAutomator2 • Pytesseract • OCR • Regex • Pydantic • Gemini AI • Groq API • Canva**
-
-</div>
-
----
-
-## 💡 Compact Version
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,html,tailwind,js,git,vscode,selenium,opencv,sqlite,android&theme=dark&perline=12" />
-
-**Plus:** ADB • UIAutomator2 • Pytesseract • Regex • Pydantic • Gemini/Groq APIs • Canva
-
-</div>
 
 ## 🚀 Featured Projects
 
