@@ -1,31 +1,11 @@
-# Hi there, I'm Sumit Goyal! 👋
+# ⚡ Sumit Goyal
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Software+Engineering+Intern;AI+%26+Automation+Specialist;Android+Development+Expert;WhatsApp+Bot+Developer)](https://git.io/typing-svg)
+**`Bot Whisperer (Developer/AI Engineer/Automation Specialist)`**
 
-</div>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-goyal-60264a286/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rjsumit151@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itvi-1234)
-
-</div>
+I'm an indian automation chad and IIIT Kota student crafting intelligent solutions that bridge the gap between complex problems and elegant code. All my projects start with a simple question: "How can technology make this better?" From WhatsApp bots processing 1000+ daily conversations to lead extractors delivering 500+ verified contacts per search, I build systems that create real business impact. Amazon ML Summer School trainee focused on infusing AI intelligence into every automation workflow I design.
 
 ---
 
-## 🎓 About Me
-
-🎯 **Computer Science Engineering Student** at **IIIT Kota** (GPA: 7.6)  
-🏆 **Amazon ML Summer School Trainee** - Selected from **60,000+ applicants** (Top 3,000)  
-💼 **Software Engineering Intern** at MediaTechTemple  
-🚀 **Automation & AI Enthusiast** with **1000+ daily WhatsApp chats processed**  
-
-> *"Transforming complex problems into elegant automated solutions"*
-
----
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
