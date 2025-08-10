@@ -41,14 +41,15 @@
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+
 
 <br />
 
-**Additional Specialized Tools:** Selenium • UIAutomator2 • ADB • Pytesseract (OCR) • Regex • Pydantic Models • Groq API
-
 ---
 
+### Additional Specialized Tools
+
+- Selenium • UIAutomator2 • ADB • Pytesseract (OCR) • Regex • Pydantic Models • Groq API
 
 ## 🚀 Featured Projects
 
