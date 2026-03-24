@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner(2).png" alt="Sumit Goyal - Technology Stack Banner" width="100%">
+</p>
+
 # Sumit Goyal 🇮🇳
 
 **`Bot Whisperer (Developer/AI Engineer/Automation Specialist)`**
