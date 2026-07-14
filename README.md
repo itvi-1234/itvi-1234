@@ -4,9 +4,9 @@
 
 # Sumit Goyal 🇮🇳
 
-**`Bot Whisperer (Developer/AI Engineer/Automation Specialist)`**
+**`Breaking Into Codebases, Fixing What Breaks`**
 
-I'm an indian automation chad and IIIT Kota student crafting intelligent solutions that bridge the gap between complex problems and elegant code. All my projects start with a simple question: "How can technology make this better?" From WhatsApp bots processing 1000+ daily conversations to lead extractors delivering 500+ verified contacts per search, I build systems that create real business impact. Amazon ML Summer School trainee focused on infusing AI intelligence into every automation workflow I design.
+While the world is busy figuring out how, I’m usually the one asking why.
 
 ---
 
