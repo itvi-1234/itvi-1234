@@ -33,8 +33,6 @@ While the world is busy figuring out how, I’m usually the one asking why.
 
 <div align="center">
 
-**"Code is poetry written in logic, and automation is the art of making it dance."**
-
 [![Profile Views](https://komarev.com/ghpvc/?username=itvi-1234&color=36BCF7&style=flat-square)](https://github.com/itvi-1234)
 
 </div>
