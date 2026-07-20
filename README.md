@@ -13,11 +13,11 @@
 
 I build **cloud-native infrastructure, Kubernetes tools, and open-source systems.**
 
-▸ **Maintainer & Code Owner** · **[Kyverno Plugin for Headlamp](https://github.com/headlamp-k8s/plugins)**<br/>
+▸ **Maintainer** · **[Kyverno Plugin for Headlamp](https://github.com/headlamp-k8s/plugins)**<br/>
 ▸ **Member** · **[Kubernetes SIGs](https://github.com/kubernetes-sigs)** · active contributor to Headlamp (CNCF Sandbox UI)<br/>
 ▸ **LFX Mentorship 2026** · **[CNCF / Kmesh](https://mentorship.lfx.linuxfoundation.org/project/c5b8d1fa-b75a-4f88-a63b-e6487dc7e39b)** · integrating observability into Headlamp<br/>
 ▸ **GSoC 2026** · **[JSON Schema](https://summerofcode.withgoogle.com/programs/2026/projects/BW2u9qaF)** · enhancing JSON Schema Studio visualization tools<br/>
-▸ **[30+ merged open-source pull requests](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3Aitvi-1234+is%3Aclosed)** across CNCF projects and other organizations<br/>
+▸ **[50+ merged open-source pull requests](https://github.com/search?q=author%3Aitvi-1234+is%3Apr+is%3Amerged&type=pullrequests)** across CNCF projects and other organizations<br/>
 
 Currently building **Headlamp Plugins** and **JSON Schema Studio**.
 
@@ -33,7 +33,6 @@ Currently building **Headlamp Plugins** and **JSON Schema Studio**.
   <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenCV-161B22?style=flat&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
 </p>
