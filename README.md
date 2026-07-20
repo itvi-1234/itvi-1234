@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner(2).png" alt="Sumit Goyal - Technology Stack Banner" width="100%">
+</p>
+
 <table width="100%">
   <tr>
     <td align="left">
@@ -36,4 +40,6 @@ Currently building **Headlamp Plugins** and **JSON Schema Studio**.
   <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenCV-161B22?style=flat&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
 </p>
