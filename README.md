@@ -1,12 +1,13 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Software Engineer / Open Source Maintainer.</strong> Building robust infrastructure and cloud-native systems.
+      <strong>Software Engineer / Open Source Maintainer.</strong>
     </td>
     <td align="right">
       <a href="mailto:Sumit.goyal.cse@gmail.com">Email</a> ·
       <a href="https://www.linkedin.com/in/sumit-goyal-60264a286/">LinkedIn</a> ·
-      <a href="https://github.com/itvi-1234">GitHub</a>
+      <a href="https://github.com/itvi-1234">GitHub</a> ·
+      <a href="https://x.com/itvi98786">X</a>
     </td>
   </tr>
 </table>
@@ -16,7 +17,7 @@ I build **cloud-native infrastructure, Kubernetes tools, and open-source systems
 ▸ **Maintainer** · **[Kyverno Plugin for Headlamp](https://github.com/headlamp-k8s/plugins)**<br/>
 ▸ **Member** · **[Kubernetes SIGs](https://github.com/kubernetes-sigs)** · active contributor to Headlamp (CNCF Sandbox UI)<br/>
 ▸ **LFX Mentorship 2026** · **[CNCF / Kmesh](https://mentorship.lfx.linuxfoundation.org/project/c5b8d1fa-b75a-4f88-a63b-e6487dc7e39b)** · integrating observability into Headlamp<br/>
-▸ **GSoC 2026** · **[JSON Schema](https://summerofcode.withgoogle.com/programs/2026/projects/BW2u9qaF)** · enhancing JSON Schema Studio visualization tools<br/>
+▸ **Google Summer of Code 2026** · **[JSON Schema](https://summerofcode.withgoogle.com/programs/2026/projects/BW2u9qaF)** · enhancing JSON Schema Studio visualization tools<br/>
 ▸ **[50+ merged open-source pull requests](https://github.com/search?q=author%3Aitvi-1234+is%3Apr+is%3Amerged&type=pullrequests)** across CNCF projects and other organizations<br/>
 
 Currently building **Headlamp Plugins** and **JSON Schema Studio**.
