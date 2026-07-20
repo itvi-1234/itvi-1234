@@ -5,7 +5,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Open Source Lover.</strong> / Building, breaking, shipping.
+      <strong>Open Source Lover</strong> / Building, breaking, shipping.
     </td>
     <td align="right">
       <a href="mailto:Sumit.goyal.cse@gmail.com">Email</a> ·
