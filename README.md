@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td align="left" width="100%">
+    <td align="left">
       <strong>Software Engineer / Open Source Maintainer.</strong>
     </td>
     <td align="right">
