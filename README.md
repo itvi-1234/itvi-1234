@@ -18,14 +18,15 @@
 
 I build **cloud-native infrastructure, Kubernetes tools, and open-source systems.**
 
-▸ **Core Contributor** · **[Runtime Conditions](https://runtimeconditions.io)** · CNCF TAG Developer Experience initiative<br/>
-▸ **Architect** · **Sourcemeta UI** · self-hosted JSON Schema registry for enterprise teams<br/>
+▸ **Core Contributor** · **[Runtime Conditions](https://runtimeconditions.io)** · open spec that validates workload runtime dependencies before deployment, a CNCF TAG Developer Experience initiative<br/>
+▸ **Architect** · **Sourcemeta UI** · self-hosted JSON Schema registry built for enterprise teams to publish and resolve their own schemas, with debugging support<br/>
 ▸ **Code Owner** · **[Kyverno Plugin for Headlamp](https://github.com/headlamp-k8s/plugins)**<br/>
 ▸ **Member** · **[Kubernetes SIGs](https://github.com/kubernetes-sigs)** · active contributor to Headlamp (CNCF Sandbox UI)<br/>
 ▸ **LFX Mentorship 2026** · **[CNCF / Kmesh](https://mentorship.lfx.linuxfoundation.org/project/c5b8d1fa-b75a-4f88-a63b-e6487dc7e39b)** · integrating observability into Headlamp<br/>
 ▸ **Google Summer of Code 2026** · **[JSON Schema](https://summerofcode.withgoogle.com/programs/2026/projects/BW2u9qaF)** · enhancing JSON Schema Studio visualization tools<br/>
 ▸ **[100+ merged open-source pull requests](https://github.com/search?q=author%3Aitvi-1234+is%3Apr+is%3Amerged&type=pullrequests)** across CNCF projects and other organizations<br/>
-
+▸ **Amazon ML Summer School** · selected among top 3,000 of 60,000+ applicants across India<br/>
+▸ **Ex SDE Intern** · **[MediaTechTemple](https://drive.google.com/file/d/1AhxKqijxhzAOQdUfTWHyiejuyQjDInVi/view?usp=sharing)** · built AI-powered news automation and government jobs scraper<br/>
 
 Currently building **Runtime Conditions** and **Sourcemeta UI**.
 
