@@ -18,7 +18,7 @@
 
 I build **cloud-native infrastructure, Kubernetes tools, and open-source systems.**
 
-▸ **Core Contributor** · **[Runtime Conditions](https://runtimeconditions.io)** · open spec that validates workload runtime dependencies before deployment, a CNCF TAG Developer Experience initiative<br/>
+▸ **Owner** · **[Runtime Conditions](https://runtimeconditions.io)** · open spec that validates workload runtime dependencies before deployment, a CNCF TAG Developer Experience initiative<br/>
 ▸ **Architect** · **[Sourcemeta UI](https://github.com/sourcemeta/one)** · self-hosted JSON Schema registry built for enterprise teams to publish and resolve their own schemas, with debugging support<br/>
 ▸ **Code Owner** · **[Kyverno Plugin for Headlamp](https://github.com/headlamp-k8s/plugins)**<br/>
 ▸ **Member** · **[Kubernetes SIGs](https://github.com/kubernetes-sigs)** · active contributor to Headlamp (CNCF Sandbox UI)<br/>
